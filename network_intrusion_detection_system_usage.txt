@@ -1,0 +1,8 @@
+##Step to setup network interface:
+
+Setup your network interface before running this program
+for verifying network interface go to setting and then network setting
+##how to run this program:
+
+This program use root privileges in Linux OS
+Sudo python main.py
